@@ -1,3 +1,4 @@
+![ouput 2](https://github.com/Rex123774/Image-restoration-using-gfpgan/assets/77051661/87a70b30-0bf3-44ca-84d0-9406a4332770)
 # Image-restoration-using-gfpgan
 Image restoration refers to the process of improving the quality of a digital image by removing or reducing various types of degradations, such as noise, blurring, compression artifacts, or other imperfections
 GFPGAN (Generative Face Parsing with Graph Convolutional Networks) is a deep learning-based method that focuses on generating high-quality face parsing results from an input image. 
